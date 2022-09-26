@@ -9,7 +9,7 @@
  * Return: pointer to be copied memory block
  */
 
-char *_memcpy(char *dest, cha *src, unsigned int n)
+char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i = 0;
 
