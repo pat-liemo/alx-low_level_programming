@@ -8,10 +8,16 @@
 /**
  * struct op - Struct op
  *
+<<<<<<< HEAD
  * @op: the operator
  * @f: the function associated
  */
 
+=======
+ * @op: The operator
+ * @f: The function associated
+ */
+>>>>>>> d179d45 (My Tasks)
 typedef struct op
 {
 	char *op;
